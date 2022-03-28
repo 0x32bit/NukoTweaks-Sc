@@ -1,2 +1,4 @@
 # NukoTweaks-Sc
 Source Code Of Nuko Tweaks? Maybe.
+
+_THIS PROJECT HAS DISCONTINUE DUE THE DEVELOPER WAS USING LINUX_
